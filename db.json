@@ -1,0 +1,73 @@
+{"events": [{
+    "id": 1,
+    "title": "Event 1",
+    "description": "Description 1",
+    "category": "sports",
+    "date": "April 25"
+}, {
+    "id": 2,
+    "title": "Event 2",
+    "description": "Description 2",
+    "category": "technology",
+    "date": "May 25"
+}, {
+    "id": 3,
+    "title": "Event 3",
+    "description": "Description 3",
+    "category": "sports",
+    "date": "June 25"
+},{
+    "id": 4,
+    "title": "Event 4",
+    "description": "Description 4",
+    "category": "food",
+    "date": "July 25"
+}, {
+    "id": 5,
+    "title": "Event 5",
+    "description": "Description 5",
+    "category": "sports",
+    "date": "Aug 25"
+}],
+    "dashboard": {
+        "posts": 5,
+        "likes": 108,
+        "followers": 200,
+        "following": 50
+    },
+    "news": [{
+    "id": 1,
+    "title": "News article 1",
+    "description": "New Description 1",
+    "category": "sports"
+},{
+    "id": 2,
+    "title": "News article 2",
+    "description": "New Description 2",
+    "category": "politics"
+},{
+    "id": 3,
+    "title": "News article 3",
+    "description": "New Description 3",
+    "category": "sports"
+}],
+    "products": [{
+        "id": 1,
+        "title": "product 1",
+        "price": 700,
+        "description": "Description 1"
+    },
+    {
+        "id": 2,
+        "title": "product 2",
+        "price": 2000,
+        "description": "Description 2"
+    },
+    {
+        "id": 3,
+        "title": "product 3",
+        "price": 300,
+        "description": "Description 3"
+    }
+]
+}
